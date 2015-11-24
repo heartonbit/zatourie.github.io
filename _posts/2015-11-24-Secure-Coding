@@ -1,0 +1,28 @@
+---
+layout: post
+title: Secure Coding 교육
+excerpt: Secure Coding 교육 정리노트
+date:   2015-11-24 09:00:00
+categories:
+tags: [securecoding]
+author: mango
+share: true
+comments: true  
+---
+
+# Refs
+
+* 행자부 (Secure Coding Guide)
+* CWE (Mitre's Common Weakness Enumeration) cf)CVE(Common Vulnerability Exposure)
+* OWASP
+* CERT (Secure Coding Standard)
+
+# Minimum Requirement
+
+* CWE SANS Top 25
+* OWASP Top 10
+
+----
+
+Secure Coding 진단원 
+
